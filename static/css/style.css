@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#exampleFormControlSelect1,#select2{
+    width: 150px;
+}
+
+.form-group{
+    margin-top: 7%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10%;
+}
+.btn{
+    position: relative;
+    left:47%;
+}
+.h1{
+    margin:5% 38%;
+    font-size: 40px;
+    text-decoration: underline;
+    letter-spacing: 2px;
+}
+.form-group textarea::placeholder{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-weight: 600;
+    font-size: 24px;
+ letter-spacing: 2px;
+ padding-left: 4px;
+}
+.form-group textarea{
+    margin-top: 10px;
+    border-radius: 10px;
+    
+}
+.form-group textarea{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding:8px;
+}
